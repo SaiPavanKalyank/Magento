@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106844" started-at="2020-03-04T09:56:41Z" finished-at="2020-03-04T09:58:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106844" started-at="2020-03-04T09:56:41Z" finished-at="2020-03-04T09:58:28Z">
+      <class name="com.cts.magentoLoginTest.RegestrationTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="setUp" is-config="true" duration-ms="12305" started-at="2020-03-04T09:56:42Z" finished-at="2020-03-04T09:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="regestrationTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="regestrationTest" duration-ms="15523" started-at="2020-03-04T09:56:54Z" data-provider="regestrationData" finished-at="2020-03-04T09:57:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[poiu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fasfsa@sfsaf.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adsfhau@dffa]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adsfhau@dffa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regestrationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="tearDown" is-config="true" duration-ms="1259" started-at="2020-03-04T09:57:10Z" finished-at="2020-03-04T09:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="setUp" is-config="true" duration-ms="11925" started-at="2020-03-04T09:57:11Z" finished-at="2020-03-04T09:57:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="regestrationTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="regestrationTest" duration-ms="25242" started-at="2020-03-04T09:57:23Z" data-provider="regestrationData" finished-at="2020-03-04T09:57:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hgfdfkj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jkdfd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dfhsdfvg@aegsahg.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jhfgjhf@dfs]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[jhfgjhf@dfs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regestrationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="tearDown" is-config="true" duration-ms="948" started-at="2020-03-04T09:57:48Z" finished-at="2020-03-04T09:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="setUp" is-config="true" duration-ms="19519" started-at="2020-03-04T09:57:49Z" finished-at="2020-03-04T09:58:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="regestrationTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="regestrationTest" duration-ms="18018" started-at="2020-03-04T09:58:09Z" data-provider="regestrationData" finished-at="2020-03-04T09:58:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hgdfhd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fdsdfs]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdghdfgh@dghsdg.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dfhokfj@dfhdf]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dfhokfj@dfhdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regestrationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cts.magentoLoginTest.RegestrationTest@457e2f02]" name="tearDown" is-config="true" duration-ms="1034" started-at="2020-03-04T09:58:27Z" finished-at="2020-03-04T09:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cts.magentoLoginTest.RegestrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
