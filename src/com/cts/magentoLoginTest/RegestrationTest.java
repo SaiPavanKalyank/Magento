@@ -21,7 +21,7 @@ public class RegestrationTest extends LaunchWebDriver{
 	@Test(dataProvider = "regestrationData")
 	public void regestrationTest(String firstname,String lastname,String emailid,String password,String confirmpassword,String company,String role)
 	{
-		HomePage.iconClick(driver);
+		HomePage.iconClick(driver); 
 		//clickOnRegister
 		LoginPage.clickOnRegister(driver);
 		//enterFirstname
